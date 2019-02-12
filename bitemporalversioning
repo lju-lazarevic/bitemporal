@@ -1,8 +1,6 @@
 CREATE 
   (`0` :Account {no:'AC123'}) ,
   (`1` :Balance {value:'100',validFrom: datetime('2019-1-4'),validTo: datetime('2019-1-6')}) ,
-  (`2` :Node ) ,
-  (`3` :Node ) ,
   (`4` :Balance {value:'120',validFrom: datetime('2019-1-7'),validTo: datetime('2019-1-12')}) ,
   (`5` :Balance {value:'150',validFrom: datetime('2019-1-13'),validTo: datetime('2019-1-19')}) ,
   (`6` :Balance {value:'90',validFrom: datetime('2019-1-20'),validTo: datetime('2019-1-25')}) ,
